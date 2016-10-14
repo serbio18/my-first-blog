@@ -1,2 +1,2 @@
-C:\Users\Name\djangogirls> myvenv\Scripts\activate
+C:\Users\Name\djangogirls> myenv\Scripts\activate
 (myvenv) ~/djangogirls$ python manage.py runserver
